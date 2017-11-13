@@ -11,9 +11,11 @@ def print_parts(parts):
 def can_gift(source, target):
     if source == target:
         return False
+    if 'source' in target:
+        return False
     if 'group' in source and source.get('group') == target.get('group'):
         return False
-    if 'source' in target:
+    if 'history' in source and target.get('name') in source['history']:
         return False
     return True
 
