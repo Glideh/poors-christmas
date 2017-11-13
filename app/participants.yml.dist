@@ -3,6 +3,6 @@ participants:
   - { name: 'Participant 2', group: 1 }
   - { name: 'Participant 3' }
   - { name: 'Participant 4', group: 2 }
-  - { name: 'Participant 5', group: 2 }
+  - { name: 'Participant 5', group: 2, history: ['Participant 2'] }
+  - { name: 'Participant 7', group: 3, history: ['Participant 3'] }
   - { name: 'Participant 6', group: 3 }
-  - { name: 'Participant 7', group: 3 }
