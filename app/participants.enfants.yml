@@ -1,0 +1,9 @@
+participants:
+  - { name: 'Shona', group: 1, history: ['Eden'] }
+  - { name: 'Mathys', group: 1, history: ['Cassy'] }
+  - { name: 'June', group: 2, history: ['Jade'] }
+  - { name: 'Ary', group: 2, history: ['Shona'] }
+  - { name: 'Jade II', group: 3, history: ['Mathys'] }
+  - { name: 'Cassy', group: 3, history: ['Ary'] }
+  - { name: 'Jade', group: 4, history: ['Jade II'] }
+  - { name: 'Eden', group: 4, history: ['June'] }

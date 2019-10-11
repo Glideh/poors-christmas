@@ -1,0 +1,18 @@
+participants:
+  - { name: 'Seb', group: 1, history: ['Issara'] }
+  - { name: 'Nou', group: 1, history: ['Aurelie'] }
+  - { name: 'Vylas', group: 2, history: ['Sone'] }
+  - { name: 'Virginie', group: 2, history: ['Tou'] }
+  - { name: 'Sone', group: 3, history: ['Perrine'] }
+  - { name: 'Bilie', group: 4, history: ['Aris'] }
+  - { name: 'Elly', group: 5, history: ['Billie'] }
+  - { name: 'Stephane', group: 5, history: ['Sourya'] }
+  - { name: 'Sourya', group: 6, history: ['Vylas'] }
+  - { name: 'Perrine', group: 6, history: ['Elly'] }
+  - { name: 'Issara', group: 7, history: ['Virginie'] }
+  - { name: 'Aris', group: 8, history: ['Palina'] }
+  - { name: 'Aurelie', group: 8, history: ['Nou'] }
+  - { name: 'Pierre', group: 9, history: ['Stephane'] }
+  - { name: 'Palina', group: 9, history: ['Ny'] }
+  - { name: 'Tou', group: 10, history: ['Pierre'] }
+  - { name: 'Ny', group: 11, history: ['Seb'] }
